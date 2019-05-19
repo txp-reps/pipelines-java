@@ -10,5 +10,6 @@ public class MyTest {
 
     @Test
     public void test_method_2() {
+        System.out.println(" hello there"); 
     }
 }
